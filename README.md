@@ -4,3 +4,7 @@ You are the IT administrator for a small corporate network. You have just instal
 
 In this lab, your task is to create the following organizational units (OUs) on a server and ensure that each is protected from accidental deletion as follows:
 
+
+
+https://github.com/mdnorris1/activedirectorylabs/assets/147259516/682a6337-50dc-40b4-bad0-9b73e6cf935d
+
